@@ -1,4 +1,4 @@
-# Forecasting Crowds in SNCF Train Stations
+# Forecasting Affluence in SNCF Train Stations
 
 End-of-module project – **Big Data / Modern Data Engineering**  
 Master 2 – Statistics for Evaluation and Forecasting – University of Reims Champagne-Ardenne  
