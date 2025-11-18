@@ -6,7 +6,7 @@ Academic year 2025–2026
 
 ## 🎯 Objective
 
-The goal of this project is to build a **daily crowd forecasting system for SNCF train stations** using open data (traffic, weather, calendar, etc.).  
+The goal of this project is to build a **daily Affluence forecasting system for SNCF train stations** using open data (traffic, weather, calendar, etc.).  
 The project follows the **full lifecycle of a data engineering & data science project**:
 
 1. Ingest data from several open APIs  
